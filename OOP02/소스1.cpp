@@ -13,6 +13,8 @@ public:
 int main() {
 	LetDebug* ld = new LetDebug;
 	ld->printNum();
+
+	std::cout << "201802060" << std::endl;
 	system("pause");
 	return 0;
 }
